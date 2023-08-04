@@ -13,8 +13,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/PerfectByPixel/profile-card-component]
+- Live Site URL: [https://perfectbypixel.github.io/profile-card-component/]
 
 ## My process
 
